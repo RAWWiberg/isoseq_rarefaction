@@ -4,10 +4,13 @@
 library(here)
 #--------------------------#
 # Load and prepare the data
-dataset<-"Maccli" # One of "Maccli", "Machtx", ...
+dataset<-"sp1" # One of "sp1", "sp2"
+sampl<-"sample1_2" # One of "sample1", "sample1_2"
 
 # Load the busco results table
-busco_table<-read.table(here("data",paste(dataset,"_busco_full_table.tsv",sep="")),header=FALSE,sep="\t",fill = TRUE)
+busco_table<-read.table(here(paste("data/",dataset,sep=""),
+                             paste(sampl,".polished_busco_full_table.tsv",sep="")),
+                        header=FALSE,sep="\t",fill = TRUE)
 colnames(busco_table)<-c("busco_id","status","transcript","length","length2")
 # get the total nr buscos from the busco_table
 busco_total<-length(unique(busco_table$busco_id))
@@ -20,7 +23,9 @@ busco_table$busco_id<-paste("busco_",busco_table$busco_id,sep="")
 length(unique(busco_table$transcript)) 
 
 # Read in the cluster report.csv table from the isoseq3 cluster step
-trans_read_counts<-read.table(here("data",paste(dataset,"_isoseq3_clustered.cluster_report.csv",sep="")),header=TRUE,sep=",")
+trans_read_counts<-read.table(here(paste("data/",dataset,sep=""),
+                                   paste(sampl,".polished.cluster_report.csv",sep="")),
+                              header=TRUE,sep=",")
 # Need to rename the transcripts in the trans_read_counts table to match the busco output 
 # (busco doesn't like the "/" character in names)
 trans_read_counts$cluster_id<-gsub("/","_",trans_read_counts$cluster_id)
@@ -37,8 +42,11 @@ nrow(counts_dat[counts_dat$count >=2,])
 length(which(busco_table$transcript %in% trans_read_counts$cluster_id)) == length(unique(busco_table$transcript)) 
 
 # The number of rows and the counts column should match
-nrow(trans_read_counts[which(trans_read_counts$cluster_id=="transcript_10037"),])
-counts_dat[which(counts_dat$cluster_id=="transcript_10037"),]
+trans_read_counts$cluster_id[1]
+nrow(trans_read_counts[which(trans_read_counts$cluster_id==trans_read_counts$cluster_id[1]),])
+counts_dat[which(counts_dat$cluster_id==trans_read_counts$cluster_id[1]),]
+
+length(unique(trans_read_counts$cluster_id))
 
 #-----------------------------------#
 # Do some down-sampling of CCS reads
@@ -46,7 +54,7 @@ counts_dat[which(counts_dat$cluster_id=="transcript_10037"),]
 # Total number of reads in the trans_read_counts table (each row is matching a read to a transcript)
 total_counts<-nrow(trans_read_counts)
 # Make a vector of a range of read sample sizes (all the way up to ~100% of reads)
-n_reads<-seq(0,10^round(log10(total_counts),digits = 1),by = 1000)
+n_reads<-seq(0,10^round(log10(total_counts),digits = 2),by = 10000)
 # How many iterations for each read count to do
 n_iter<-100
 
@@ -71,6 +79,7 @@ for(i in n_reads){
     # the relationship between expression level and the number of sequenced reads will stay the same regardless of sequencing effort.
     samp<-sample(trans_read_counts$cluster_id,N_reads,replace = TRUE)
     samp<-unique(samp)
+    length(unique(samp))/length(unique(trans_read_counts$cluster_id))
     # How many BUSCOs have we samples
     iters_n_buscos[j]<-length(unique(busco_table$busco_id[which(busco_table$transcript %in% samp)]))
   }
@@ -87,9 +96,10 @@ rarefaction_dat$sd_upr_perc_compl<-((rarefaction_dat$mean+rarefaction_dat$sd)/bu
 rarefaction_dat$sd_lwr_perc_compl<-((rarefaction_dat$mean-rarefaction_dat$sd)/busco_total)*100
 rarefaction_dat$max_perc_compl<-(rarefaction_dat$max/busco_total)*100
 
-head(rarefaction_dat)
+rarefaction_dat
 
 # Save this data
-write.table(rarefaction_dat,here("data",paste(dataset,"_subsampling_rarefaction_dat.csv",sep="")),
+write.table(rarefaction_dat,here(paste("data/",dataset,sep=""),
+                                 paste(sampl,"_subsampling_rarefaction_dat.csv",sep="")),
             quote=FALSE,row.names=FALSE,col.names=TRUE,sep=",")
 
