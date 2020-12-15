@@ -26,11 +26,11 @@ We can zoom in on the data for samples with >200,000 reads to see that the trend
 
 ![fig2][fig2]
 
-If we fit a regression line to that data, and extrapolate out to 4 million CCS reads. We obtain the following figure.
+If we fit a regression line to that data, and extrapolate out to how many reads we need to cross 100% BUSCO genes, we obtain the following figure.
 
 ![fig3][fig3]
 
-Where the grey dashed line charts the extrapolations from the regression model. Only at ~4 million CCS reads does it cross the threshhold for the genome assembly.
+Where the grey dashed line charts the extrapolations from the regression model. Only at ~1.5-1.8 million CCS reads does it cross the threshhold for the genome assembly.
 
 We can test this intuition if we produce more Iso-Seq data. Which is what I did here. I obtained the above results with a sample that was run on a single 1M SMRT cell on the Sequel system. This produced 200,662 CCS reads represented the final set of high quality transcripts. We subsequently ran the same sample on an 8M SMRT cell on the Sequel II system to produce an total of 923,429 CCS (i.e. an additional 772,767 CCS reads). So I now run the same procedure as above and ask how many BUSCO genes do I recover using the full set of ~920000 CCS reads. 
 

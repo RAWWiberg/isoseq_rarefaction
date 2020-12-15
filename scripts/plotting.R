@@ -92,7 +92,8 @@ plot1_plus1<-ggplot(data=rarefaction_dat)+
   my.theme+
   theme(axis.text = element_text(size=16),
         axis.title = element_text(size=16))+
-  geom_line(data=predframe,aes(x=reads/100000,y=perc_compl),colour="grey50",linetype="dashed")
+  geom_line(data=predframe[which(predframe$perc_compl<=100),],
+            aes(x=reads/100000,y=perc_compl),colour="grey50",linetype="dashed")
 
 ggsave(filename=here("figures",paste(dataset,"_plot1_plus1.png",sep="")),device = "png",dpi = 300,width = 15,height=10,units="cm")
 plot1_plus1
@@ -147,7 +148,8 @@ plot1_plus2<-plot1<-ggplot(data=rarefaction_dat)+
   my.theme+
   theme(axis.text = element_text(size=16),
         axis.title = element_text(size=16))+
-  geom_line(data=predframe,aes(x=reads/100000,y=perc_compl),colour="grey50",linetype="dashed")
+  geom_line(data=predframe[which(predframe$perc_compl<=100),],
+            aes(x=reads/100000,y=perc_compl),colour="grey50",linetype="dashed")
 
 ggsave(filename=here("figures",paste(dataset,"_plot1_plus2.png",sep="")),device = "png",dpi = 300,width = 15,height=10,units="cm")
 plot1_plus2
