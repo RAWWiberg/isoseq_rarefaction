@@ -1,0 +1,1114 @@
+# BUSCO version is: 4.0.6 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2019-11-20, number of species: 65, number of BUSCOs: 954)
+# Busco id	Status	Sequence	Score	Length
+5951at33208a	Duplicated	transcript_4709	2837.2	1360
+5951at33208a	Duplicated	transcript_5402	2600.8	1257
+9639at33208a	Fragmented	transcript_23596	305.0	145
+13816at33208a	Fragmented	transcript_13901	786.1	559
+14776at33208a	Missing
+16244at33208a	Complete	transcript_1082	2385.8	1679
+40200at33208a	Missing
+45934at33208a	Missing
+49474at33208a	Duplicated	transcript_5833	249.0	752
+49474at33208a	Duplicated	transcript_2591	247.4	577
+50756at33208a	Duplicated	transcript_11586	236.9	569
+50756at33208a	Duplicated	transcript_7552	235.7	569
+56573at33208a	Missing
+57158at33208a	Duplicated	transcript_9222	1654.1	1024
+57158at33208a	Duplicated	transcript_6276	1594.3	978
+57158at33208a	Duplicated	transcript_10055	1574.0	978
+63697at33208a	Duplicated	transcript_10355	1849.4	934
+63697at33208a	Duplicated	transcript_11771	1841.6	887
+63697at33208a	Duplicated	transcript_14961	1730.2	806
+64435at33208a	Missing
+65302at33208a	Missing
+66018at33208a	Duplicated	transcript_3244	1305.6	858
+66018at33208a	Duplicated	transcript_6368	1285.8	803
+75406at33208a	Duplicated	transcript_23454	408.3	535
+75406at33208a	Duplicated	transcript_17856	408.1	534
+76852at33208a	Missing
+84980at33208a	Duplicated	transcript_9414	758.5	619
+84980at33208a	Duplicated	transcript_8433	758.2	619
+84980at33208a	Duplicated	transcript_10621	654.5	555
+88053at33208a	Missing
+92367at33208a	Missing
+99614at33208a	Missing
+99987at33208a	Complete	transcript_21051	279.0	431
+102804at33208a	Duplicated	transcript_9910	1014.3	897
+102804at33208a	Duplicated	transcript_9318	1014.1	897
+102804at33208a	Duplicated	transcript_8708	1012.7	897
+103854at33208a	Complete	transcript_15725	407.7	635
+107151at33208a	Duplicated	transcript_13794	1180.1	781
+107151at33208a	Duplicated	transcript_17041	1029.7	693
+107574at33208a	Missing
+108764at33208a	Missing
+109109at33208a	Complete	transcript_19102	987.9	605
+111730at33208a	Duplicated	transcript_18394	733.4	617
+111730at33208a	Duplicated	transcript_22980	662.6	539
+111746at33208a	Missing
+114954at33208a	Fragmented	transcript_13447	132.1	210
+115878at33208a	Complete	transcript_29978	287.1	251
+118209at33208a	Complete	transcript_6263	1409.1	818
+119252at33208a	Complete	transcript_18902	774.7	530
+119591at33208a	Duplicated	transcript_8428	1304.6	992
+119591at33208a	Duplicated	transcript_7494	1303.9	992
+121127at33208a	Complete	transcript_7680	427.6	531
+123923at33208a	Missing
+124302at33208a	Missing
+127766at33208a	Duplicated	transcript_11986	617.0	620
+127766at33208a	Duplicated	transcript_13877	574.3	597
+129179at33208a	Complete	transcript_21137	132.0	406
+130245at33208a	Missing
+130256at33208a	Duplicated	transcript_19639	292.1	542
+130256at33208a	Duplicated	transcript_21341	285.4	538
+131349at33208a	Complete	transcript_15394	708.8	570
+131848at33208a	Duplicated	transcript_11633	424.7	432
+131848at33208a	Duplicated	transcript_10394	424.2	432
+131848at33208a	Duplicated	transcript_8774	423.6	432
+132087at33208a	Missing
+134492at33208a	Missing
+135294at33208a	Missing
+137383at33208a	Missing
+139188at33208a	Complete	transcript_16034	571.6	605
+143619at33208a	Duplicated	transcript_20396	257.5	295
+143619at33208a	Duplicated	transcript_18381	257.2	295
+143619at33208a	Duplicated	transcript_7150	254.3	295
+143997at33208a	Missing
+146671at33208a	Complete	transcript_8499	851.2	704
+147873at33208a	Missing
+148067at33208a	Complete	transcript_21651	223.6	454
+148325at33208a	Complete	transcript_24552	274.2	275
+152327at33208a	Complete	transcript_17198	314.2	351
+152977at33208a	Missing
+153034at33208a	Duplicated	transcript_22839	635.8	501
+153034at33208a	Duplicated	transcript_23277	635.7	501
+153034at33208a	Duplicated	transcript_22360	635.6	501
+157109at33208a	Missing
+157138at33208a	Missing
+158845at33208a	Duplicated	transcript_20651	195.9	391
+158845at33208a	Duplicated	transcript_19378	194.5	417
+158845at33208a	Duplicated	transcript_19012	194.4	417
+158962at33208a	Missing
+162821at33208a	Duplicated	transcript_12556	542.9	410
+162821at33208a	Duplicated	transcript_11009	542.6	410
+162821at33208a	Duplicated	transcript_10425	542.5	410
+164767at33208a	Missing
+166097at33208a	Complete	transcript_17121	674.1	491
+168850at33208a	Missing
+168924at33208a	Duplicated	transcript_9343	488.2	559
+168924at33208a	Duplicated	transcript_8951	488.1	559
+168924at33208a	Duplicated	transcript_11389	471.7	550
+169864at33208a	Missing
+172677at33208a	Duplicated	transcript_15639	110.8	171
+172677at33208a	Duplicated	transcript_14839	110.6	171
+176247at33208a	Complete	transcript_25153	339.0	323
+177718at33208a	Missing
+177858at33208a	Complete	transcript_18952	864.0	583
+178537at33208a	Complete	transcript_26822	935.6	465
+179485at33208a	Missing
+180808at33208a	Complete	transcript_13299	740.7	480
+182834at33208a	Complete	transcript_27843	398.3	422
+184508at33208a	Missing
+184717at33208a	Missing
+186208at33208a	Duplicated	transcript_12808	945.6	617
+186208at33208a	Duplicated	transcript_13874	895.2	640
+186208at33208a	Duplicated	transcript_15036	808.4	595
+186707at33208a	Missing
+187280at33208a	Duplicated	transcript_18604	706.4	518
+187280at33208a	Duplicated	transcript_18157	706.3	518
+187280at33208a	Duplicated	transcript_17723	706.2	518
+189414at33208a	Duplicated	transcript_15002	113.8	343
+189414at33208a	Duplicated	transcript_14817	113.8	343
+190726at33208a	Duplicated	transcript_25766	528.8	393
+190726at33208a	Duplicated	transcript_27924	518.3	386
+190726at33208a	Duplicated	transcript_26915	482.2	394
+191938at33208a	Missing
+192250at33208a	Missing
+194754at33208a	Duplicated	transcript_12982	1060.8	773
+194754at33208a	Duplicated	transcript_12597	1060.8	773
+194754at33208a	Duplicated	transcript_13517	1053.4	773
+195986at33208a	Missing
+196950at33208a	Duplicated	transcript_20844	457.6	586
+196950at33208a	Duplicated	transcript_24009	441.1	537
+197549at33208a	Complete	transcript_15605	68.4	334
+197652at33208a	Duplicated	transcript_28260	712.0	436
+197652at33208a	Duplicated	transcript_27480	711.9	436
+200997at33208a	Missing
+201397at33208a	Missing
+202545at33208a	Duplicated	transcript_17611	375.0	443
+202545at33208a	Duplicated	transcript_22330	368.0	412
+203128at33208a	Complete	transcript_25829	856.9	438
+203698at33208a	Missing
+205220at33208a	Complete	transcript_15978	636.0	638
+206786at33208a	Complete	transcript_31014	400.4	371
+206858at33208a	Missing
+207599at33208a	Missing
+208219at33208a	Missing
+210614at33208a	Missing
+212972at33208a	Missing
+214788at33208a	Duplicated	transcript_19672	486.0	518
+214788at33208a	Duplicated	transcript_18924	485.8	518
+214788at33208a	Duplicated	transcript_17768	485.8	518
+215654at33208a	Complete	transcript_27756	537.0	408
+216257at33208a	Missing
+216563at33208a	Fragmented	transcript_31284	60.7	134
+218441at33208a	Missing
+219795at33208a	Complete	transcript_11438	390.1	518
+219856at33208a	Complete	transcript_27863	597.9	394
+222489at33208a	Complete	transcript_25777	638.1	367
+223234at33208a	Missing
+224280at33208a	Missing
+226335at33208a	Duplicated	transcript_24084	590.5	364
+226335at33208a	Duplicated	transcript_27148	576.0	356
+226941at33208a	Complete	transcript_17559	458.3	450
+227087at33208a	Missing
+227453at33208a	Missing
+227979at33208a	Missing
+231157at33208a	Complete	transcript_20487	483.0	429
+231700at33208a	Missing
+234290at33208a	Complete	transcript_17622	439.6	468
+235149at33208a	Duplicated	transcript_21753	312.5	388
+235149at33208a	Duplicated	transcript_25104	304.2	371
+235149at33208a	Duplicated	transcript_28540	273.2	340
+235430at33208a	Missing
+235458at33208a	Complete	transcript_23903	324.7	360
+239016at33208a	Missing
+239149at33208a	Missing
+239597at33208a	Complete	transcript_18553	348.3	509
+240437at33208a	Complete	transcript_32726	336.8	238
+244863at33208a	Complete	transcript_15457	337.1	468
+245482at33208a	Missing
+245567at33208a	Missing
+246241at33208a	Missing
+247183at33208a	Duplicated	transcript_15178	769.9	594
+247183at33208a	Duplicated	transcript_14425	769.2	594
+247905at33208a	Missing
+249486at33208a	Missing
+251076at33208a	Missing
+251577at33208a	Complete	transcript_32406	114.2	175
+255117at33208a	Missing
+255242at33208a	Missing
+255924at33208a	Missing
+257141at33208a	Missing
+257339at33208a	Complete	transcript_6271	215.6	290
+259581at33208a	Duplicated	transcript_21716	101.6	318
+259581at33208a	Duplicated	transcript_23045	101.6	318
+260752at33208a	Missing
+261284at33208a	Missing
+261614at33208a	Missing
+262757at33208a	Missing
+266460at33208a	Duplicated	transcript_26805	518.4	466
+266460at33208a	Duplicated	transcript_23501	517.7	466
+266460at33208a	Duplicated	transcript_20762	517.2	466
+266469at33208a	Missing
+266808at33208a	Complete	transcript_31452	521.2	351
+267439at33208a	Missing
+268134at33208a	Complete	transcript_30557	308.7	234
+268397at33208a	Missing
+270594at33208a	Duplicated	transcript_19599	525.3	516
+270594at33208a	Duplicated	transcript_21372	525.1	515
+270594at33208a	Duplicated	transcript_23413	494.2	473
+271297at33208a	Missing
+271742at33208a	Missing
+272605at33208a	Missing
+273040at33208a	Missing
+273367at33208a	Missing
+273989at33208a	Complete	transcript_26672	484.1	494
+274044at33208a	Missing
+274064at33208a	Complete	transcript_23819	301.5	273
+274769at33208a	Missing
+274992at33208a	Complete	transcript_22487	632.6	355
+277935at33208a	Missing
+278227at33208a	Missing
+279631at33208a	Missing
+279992at33208a	Duplicated	transcript_19623	276.8	304
+279992at33208a	Duplicated	transcript_15430	275.9	304
+279992at33208a	Duplicated	transcript_11933	275.6	304
+280914at33208a	Missing
+281304at33208a	Missing
+281693at33208a	Missing
+283637at33208a	Complete	transcript_32128	571.2	357
+284059at33208a	Missing
+285146at33208a	Missing
+285902at33208a	Complete	transcript_23563	232.4	362
+285966at33208a	Missing
+286553at33208a	Duplicated	transcript_22531	232.7	262
+286553at33208a	Duplicated	transcript_27457	231.2	258
+286553at33208a	Duplicated	transcript_19869	230.2	261
+289235at33208a	Missing
+289928at33208a	Complete	transcript_23974	279.8	324
+291505at33208a	Complete	transcript_20732	469.3	435
+291875at33208a	Missing
+295556at33208a	Missing
+295775at33208a	Missing
+300303at33208a	Complete	transcript_21138	199.7	388
+301572at33208a	Duplicated	transcript_30325	506.1	393
+301572at33208a	Duplicated	transcript_28040	505.5	393
+302186at33208a	Missing
+302279at33208a	Missing
+302921at33208a	Fragmented	transcript_18637	52.0	139
+303117at33208a	Missing
+304388at33208a	Missing
+305260at33208a	Missing
+306101at33208a	Missing
+307109at33208a	Duplicated	transcript_28122	393.6	342
+307109at33208a	Duplicated	transcript_30230	377.6	325
+308610at33208a	Complete	transcript_28967	512.6	363
+311438at33208a	Missing
+311758at33208a	Missing
+311761at33208a	Missing
+312577at33208a	Missing
+313091at33208a	Complete	transcript_32094	281.1	251
+315044at33208a	Missing
+315393at33208a	Missing
+317470at33208a	Complete	transcript_29692	340.1	317
+318483at33208a	Complete	transcript_22723	395.5	334
+318532at33208a	Complete	transcript_26282	593.7	336
+319574at33208a	Complete	transcript_32016	247.0	245
+320390at33208a	Missing
+321332at33208a	Missing
+323399at33208a	Missing
+323473at33208a	Missing
+324249at33208a	Fragmented	transcript_28248	75.4	144
+325183at33208a	Duplicated	transcript_27755	574.8	345
+325183at33208a	Duplicated	transcript_31378	506.5	296
+327301at33208a	Missing
+331112at33208a	Missing
+331186at33208a	Missing
+332870at33208a	Missing
+333062at33208a	Complete	transcript_29220	410.5	326
+333800at33208a	Missing
+334272at33208a	Missing
+334331at33208a	Complete	transcript_19849	437.7	460
+334336at33208a	Duplicated	transcript_15052	458.2	421
+334336at33208a	Duplicated	transcript_17822	401.3	417
+334342at33208a	Missing
+334764at33208a	Duplicated	transcript_29736	306.1	294
+334764at33208a	Duplicated	transcript_29316	297.8	264
+334820at33208a	Missing
+335107at33208a	Missing
+336647at33208a	Missing
+338191at33208a	Fragmented	transcript_30782	33.9	87
+338482at33208a	Complete	transcript_24218	281.4	417
+339127at33208a	Duplicated	transcript_22395	281.9	459
+339127at33208a	Duplicated	transcript_24025	279.5	439
+339319at33208a	Missing
+340558at33208a	Complete	transcript_30937	240.7	308
+340577at33208a	Complete	transcript_24243	473.1	482
+344338at33208a	Missing
+344346at33208a	Complete	transcript_28578	124.6	275
+344442at33208a	Missing
+344581at33208a	Missing
+344611at33208a	Missing
+345099at33208a	Missing
+345959at33208a	Missing
+346541at33208a	Duplicated	transcript_21628	335.0	420
+346541at33208a	Duplicated	transcript_19904	334.5	420
+346541at33208a	Duplicated	transcript_8288	322.1	393
+347600at33208a	Duplicated	transcript_21707	412.8	270
+347600at33208a	Duplicated	transcript_20493	412.7	270
+348449at33208a	Missing
+348544at33208a	Duplicated	transcript_18297	332.5	308
+348544at33208a	Duplicated	transcript_16192	332.3	308
+348761at33208a	Complete	transcript_28486	189.8	225
+349064at33208a	Duplicated	transcript_31313	388.3	297
+349064at33208a	Duplicated	transcript_20509	386.9	280
+349627at33208a	Duplicated	transcript_25197	152.7	287
+349627at33208a	Duplicated	transcript_22916	152.3	287
+349627at33208a	Duplicated	transcript_20026	151.5	287
+351226at33208a	Missing
+352600at33208a	Missing
+352854at33208a	Duplicated	transcript_19462	488.2	357
+352854at33208a	Duplicated	transcript_22139	483.7	359
+352854at33208a	Duplicated	transcript_23689	483.6	359
+353286at33208a	Fragmented	transcript_29049	244.0	216
+353768at33208a	Complete	transcript_31289	262.4	352
+354829at33208a	Missing
+354949at33208a	Missing
+355210at33208a	Missing
+355739at33208a	Missing
+356175at33208a	Missing
+356334at33208a	Missing
+356503at33208a	Complete	transcript_28956	347.4	285
+357580at33208a	Missing
+359075at33208a	Missing
+359324at33208a	Missing
+359369at33208a	Complete	transcript_33512	252.7	251
+359532at33208a	Missing
+360379at33208a	Missing
+360753at33208a	Missing
+361100at33208a	Missing
+361203at33208a	Missing
+361216at33208a	Missing
+363634at33208a	Missing
+363840at33208a	Missing
+363851at33208a	Complete	transcript_25653	303.2	273
+364383at33208a	Complete	transcript_29818	420.0	316
+364694at33208a	Missing
+365323at33208a	Missing
+365561at33208a	Complete	transcript_32241	485.4	358
+365691at33208a	Missing
+366124at33208a	Missing
+366814at33208a	Missing
+366936at33208a	Complete	transcript_27752	276.8	217
+367493at33208a	Missing
+367551at33208a	Duplicated	transcript_23137	536.0	371
+367551at33208a	Duplicated	transcript_27462	518.1	359
+367596at33208a	Fragmented	transcript_9445	240.2	308
+367957at33208a	Complete	transcript_26731	367.4	342
+368565at33208a	Duplicated	transcript_27854	502.9	329
+368565at33208a	Duplicated	transcript_24202	459.4	275
+368670at33208a	Missing
+368875at33208a	Missing
+371241at33208a	Complete	transcript_29133	210.2	175
+371297at33208a	Missing
+371526at33208a	Duplicated	transcript_27371	410.5	235
+371526at33208a	Duplicated	transcript_5731	408.3	235
+372257at33208a	Missing
+372707at33208a	Duplicated	transcript_14567	322.7	245
+372707at33208a	Duplicated	transcript_32666	321.9	232
+373040at33208a	Missing
+376982at33208a	Complete	transcript_32393	455.4	251
+378033at33208a	Duplicated	transcript_16750	271.8	405
+378033at33208a	Duplicated	transcript_16127	271.5	405
+378033at33208a	Duplicated	transcript_24725	260.3	355
+378316at33208a	Missing
+378768at33208a	Missing
+378913at33208a	Duplicated	transcript_33241	186.3	149
+378913at33208a	Duplicated	transcript_11657	185.1	149
+379076at33208a	Missing
+379636at33208a	Duplicated	transcript_29716	288.4	280
+379636at33208a	Duplicated	transcript_29194	288.3	280
+379771at33208a	Missing
+380583at33208a	Complete	transcript_33202	375.2	271
+381303at33208a	Missing
+382000at33208a	Complete	transcript_17803	115.2	201
+382262at33208a	Missing
+382750at33208a	Missing
+383313at33208a	Missing
+384187at33208a	Missing
+386666at33208a	Missing
+387079at33208a	Missing
+387117at33208a	Missing
+387878at33208a	Missing
+389367at33208a	Missing
+389527at33208a	Duplicated	transcript_17573	610.7	566
+389527at33208a	Duplicated	transcript_19481	610.4	566
+389527at33208a	Duplicated	transcript_14665	609.9	566
+389570at33208a	Complete	transcript_18931	397.9	315
+389591at33208a	Missing
+390192at33208a	Complete	transcript_25984	355.5	345
+390402at33208a	Complete	transcript_32941	274.8	236
+391896at33208a	Duplicated	transcript_28849	407.1	262
+391896at33208a	Duplicated	transcript_26729	406.7	262
+391896at33208a	Duplicated	transcript_10142	405.0	262
+393219at33208a	Missing
+393291at33208a	Missing
+393419at33208a	Complete	transcript_21163	336.7	358
+393895at33208a	Duplicated	transcript_26378	558.7	424
+393895at33208a	Duplicated	transcript_24466	558.5	424
+393895at33208a	Duplicated	transcript_24538	558.5	424
+395147at33208a	Complete	transcript_27501	282.6	258
+395183at33208a	Complete	transcript_32759	293.8	173
+395556at33208a	Missing
+395919at33208a	Missing
+395948at33208a	Duplicated	transcript_13357	188.7	365
+395948at33208a	Duplicated	transcript_7909	187.5	365
+395948at33208a	Duplicated	transcript_6989	186.9	362
+396237at33208a	Missing
+397019at33208a	Missing
+397659at33208a	Missing
+398013at33208a	Complete	transcript_29064	435.4	280
+398202at33208a	Missing
+398607at33208a	Missing
+399092at33208a	Complete	transcript_30243	110.8	161
+399439at33208a	Missing
+400042at33208a	Missing
+401196at33208a	Missing
+401220at33208a	Complete	transcript_31064	214.0	343
+401679at33208a	Missing
+401779at33208a	Missing
+403171at33208a	Missing
+403817at33208a	Missing
+404988at33208a	Missing
+405257at33208a	Duplicated	transcript_21017	226.6	355
+405257at33208a	Duplicated	transcript_26185	206.6	288
+406927at33208a	Missing
+407472at33208a	Complete	transcript_28186	396.9	510
+409006at33208a	Missing
+409186at33208a	Fragmented	transcript_26540	153.7	259
+411515at33208a	Missing
+411664at33208a	Missing
+411755at33208a	Missing
+412370at33208a	Missing
+412542at33208a	Missing
+412930at33208a	Missing
+413334at33208a	Missing
+414001at33208a	Missing
+414571at33208a	Duplicated	transcript_31847	109.0	196
+414571at33208a	Duplicated	transcript_30412	108.8	196
+414571at33208a	Duplicated	transcript_32664	97.8	185
+414579at33208a	Missing
+414603at33208a	Missing
+415618at33208a	Missing
+416175at33208a	Missing
+418979at33208a	Complete	transcript_32339	211.6	156
+419502at33208a	Duplicated	transcript_33610	224.9	214
+419502at33208a	Duplicated	transcript_13955	221.1	210
+419914at33208a	Missing
+421396at33208a	Missing
+421685at33208a	Missing
+421732at33208a	Missing
+422158at33208a	Missing
+422751at33208a	Duplicated	transcript_29102	441.8	345
+422751at33208a	Duplicated	transcript_29399	440.8	344
+423799at33208a	Missing
+423848at33208a	Complete	transcript_32849	115.2	209
+424392at33208a	Missing
+424569at33208a	Missing
+424646at33208a	Missing
+427349at33208a	Missing
+427789at33208a	Complete	transcript_26083	458.0	390
+428202at33208a	Duplicated	transcript_28353	496.2	350
+428202at33208a	Duplicated	transcript_25774	495.5	350
+428202at33208a	Duplicated	transcript_24947	495.4	350
+428754at33208a	Missing
+429011at33208a	Missing
+429274at33208a	Missing
+429751at33208a	Duplicated	transcript_23987	120.1	282
+429751at33208a	Duplicated	transcript_21277	119.4	282
+429751at33208a	Duplicated	transcript_5677	114.1	282
+430701at33208a	Missing
+432050at33208a	Complete	transcript_33239	376.3	243
+432155at33208a	Complete	transcript_31428	141.2	148
+432287at33208a	Missing
+432522at33208a	Missing
+433216at33208a	Missing
+433606at33208a	Complete	transcript_25280	138.4	166
+434068at33208a	Complete	transcript_24478	441.5	376
+434863at33208a	Complete	transcript_33765	295.3	240
+435253at33208a	Missing
+435678at33208a	Complete	transcript_28318	220.1	329
+435921at33208a	Missing
+435939at33208a	Missing
+436007at33208a	Duplicated	transcript_17171	168.3	351
+436007at33208a	Duplicated	transcript_13675	167.8	351
+436098at33208a	Complete	transcript_26555	185.6	200
+436539at33208a	Missing
+437653at33208a	Missing
+438133at33208a	Duplicated	transcript_32968	476.9	302
+438133at33208a	Duplicated	transcript_32851	476.4	302
+438433at33208a	Complete	transcript_30701	296.5	202
+438453at33208a	Missing
+439736at33208a	Missing
+440195at33208a	Missing
+440493at33208a	Missing
+441575at33208a	Duplicated	transcript_15045	489.2	599
+441575at33208a	Duplicated	transcript_13906	488.9	599
+441575at33208a	Duplicated	transcript_16835	488.5	599
+442169at33208a	Missing
+442203at33208a	Missing
+442823at33208a	Missing
+443305at33208a	Missing
+443518at33208a	Missing
+443659at33208a	Missing
+443928at33208a	Missing
+444160at33208a	Missing
+444231at33208a	Missing
+445031at33208a	Missing
+445034at33208a	Missing
+445091at33208a	Missing
+446000at33208a	Complete	transcript_31958	274.6	261
+446031at33208a	Missing
+447320at33208a	Complete	transcript_32190	67.8	184
+447400at33208a	Missing
+448196at33208a	Missing
+448514at33208a	Missing
+449056at33208a	Missing
+449139at33208a	Missing
+449189at33208a	Duplicated	transcript_28421	453.6	395
+449189at33208a	Duplicated	transcript_26115	453.2	395
+449189at33208a	Duplicated	transcript_28953	452.9	395
+450643at33208a	Missing
+450785at33208a	Complete	transcript_33175	103.2	93
+451242at33208a	Complete	transcript_33888	158.9	206
+451957at33208a	Missing
+452208at33208a	Complete	transcript_30764	230.9	245
+452499at33208a	Missing
+452574at33208a	Missing
+453049at33208a	Missing
+453052at33208a	Complete	transcript_27287	241.9	305
+453056at33208a	Missing
+453687at33208a	Missing
+454911at33208a	Missing
+455512at33208a	Missing
+455941at33208a	Duplicated	transcript_19874	209.2	224
+455941at33208a	Duplicated	transcript_14421	208.2	224
+455941at33208a	Duplicated	transcript_31903	207.2	224
+456998at33208a	Missing
+457777at33208a	Missing
+458807at33208a	Complete	transcript_33699	353.1	281
+458974at33208a	Fragmented	transcript_32778	56.4	88
+458988at33208a	Duplicated	transcript_25646	316.9	452
+458988at33208a	Duplicated	transcript_26086	316.8	452
+459253at33208a	Missing
+460044at33208a	Duplicated	transcript_30607	313.5	295
+460044at33208a	Duplicated	transcript_32139	280.0	256
+460518at33208a	Missing
+461123at33208a	Missing
+461193at33208a	Complete	transcript_30584	150.3	228
+462325at33208a	Duplicated	transcript_32722	183.2	294
+462325at33208a	Duplicated	transcript_32278	183.0	294
+462325at33208a	Duplicated	transcript_31807	182.9	294
+462897at33208a	Missing
+463071at33208a	Missing
+464204at33208a	Missing
+464243at33208a	Missing
+464286at33208a	Missing
+464312at33208a	Missing
+464987at33208a	Complete	transcript_8699	201.7	165
+465092at33208a	Missing
+465401at33208a	Missing
+465512at33208a	Missing
+465651at33208a	Missing
+465703at33208a	Missing
+465933at33208a	Duplicated	transcript_29783	308.3	226
+465933at33208a	Duplicated	transcript_28057	308.0	226
+465933at33208a	Duplicated	transcript_32915	291.9	220
+466616at33208a	Complete	transcript_27041	167.1	368
+466942at33208a	Missing
+467106at33208a	Missing
+467142at33208a	Duplicated	transcript_24539	138.8	285
+467142at33208a	Duplicated	transcript_29961	125.8	180
+467744at33208a	Missing
+468248at33208a	Complete	transcript_30628	346.7	270
+468359at33208a	Missing
+468631at33208a	Missing
+468710at33208a	Missing
+468757at33208a	Complete	transcript_32788	98.3	243
+469367at33208a	Missing
+470197at33208a	Missing
+470523at33208a	Duplicated	transcript_20918	123.2	184
+470523at33208a	Duplicated	transcript_32671	122.9	186
+470523at33208a	Duplicated	transcript_24772	118.0	184
+471608at33208a	Missing
+471787at33208a	Complete	transcript_25795	375.9	280
+472313at33208a	Duplicated	transcript_33450	359.7	250
+472313at33208a	Duplicated	transcript_33962	347.3	231
+472352at33208a	Missing
+473106at33208a	Missing
+474144at33208a	Duplicated	transcript_25911	216.8	208
+474144at33208a	Duplicated	transcript_34090	214.7	202
+474144at33208a	Duplicated	transcript_31907	213.4	236
+474302at33208a	Missing
+474387at33208a	Missing
+475826at33208a	Missing
+476036at33208a	Missing
+477052at33208a	Missing
+477939at33208a	Missing
+477998at33208a	Missing
+478073at33208a	Duplicated	transcript_34085	400.8	226
+478073at33208a	Duplicated	transcript_34069	400.8	226
+478073at33208a	Duplicated	transcript_7897	396.5	226
+478984at33208a	Missing
+480700at33208a	Missing
+480735at33208a	Duplicated	transcript_33544	281.8	273
+480735at33208a	Duplicated	transcript_33112	281.6	273
+480735at33208a	Duplicated	transcript_33042	273.2	273
+481557at33208a	Duplicated	transcript_30364	112.2	245
+481557at33208a	Duplicated	transcript_29854	112.1	245
+482691at33208a	Missing
+483489at33208a	Missing
+485003at33208a	Missing
+485696at33208a	Missing
+486370at33208a	Duplicated	transcript_32566	168.3	193
+486370at33208a	Duplicated	transcript_32034	168.1	192
+486431at33208a	Complete	transcript_24895	250.5	332
+486743at33208a	Complete	transcript_16042	82.0	143
+486993at33208a	Missing
+487873at33208a	Missing
+487987at33208a	Missing
+488559at33208a	Complete	transcript_34074	181.6	208
+488635at33208a	Missing
+489359at33208a	Missing
+489858at33208a	Duplicated	transcript_30349	195.7	253
+489858at33208a	Duplicated	transcript_29867	195.6	247
+489997at33208a	Missing
+490248at33208a	Complete	transcript_28639	217.5	200
+490961at33208a	Missing
+491252at33208a	Missing
+491289at33208a	Complete	transcript_8123	210.1	153
+492033at33208a	Complete	transcript_19280	130.7	125
+493148at33208a	Missing
+493505at33208a	Missing
+493913at33208a	Missing
+494057at33208a	Missing
+495100at33208a	Complete	transcript_12353	104.8	314
+495175at33208a	Missing
+495207at33208a	Missing
+495311at33208a	Missing
+495329at33208a	Missing
+495389at33208a	Missing
+495605at33208a	Missing
+495802at33208a	Missing
+495926at33208a	Complete	transcript_29636	76.6	148
+496070at33208a	Missing
+496219at33208a	Complete	transcript_17854	298.1	234
+498535at33208a	Missing
+500261at33208a	Duplicated	transcript_25418	313.3	289
+500261at33208a	Duplicated	transcript_23543	313.0	289
+500808at33208a	Missing
+501396at33208a	Complete	transcript_28804	240.2	167
+501546at33208a	Missing
+501788at33208a	Missing
+502128at33208a	Complete	transcript_32609	310.1	254
+502407at33208a	Duplicated	transcript_29837	197.8	180
+502407at33208a	Duplicated	transcript_30055	194.8	178
+502429at33208a	Missing
+502584at33208a	Missing
+502691at33208a	Missing
+503333at33208a	Missing
+503828at33208a	Missing
+504207at33208a	Complete	transcript_32981	327.4	316
+504292at33208a	Complete	transcript_31720	223.8	177
+504691at33208a	Missing
+504731at33208a	Missing
+504912at33208a	Fragmented	transcript_33397	44.3	51
+505248at33208a	Missing
+505718at33208a	Missing
+508188at33208a	Missing
+508379at33208a	Missing
+508986at33208a	Missing
+509494at33208a	Missing
+509816at33208a	Missing
+510174at33208a	Missing
+510522at33208a	Complete	transcript_10920	172.4	207
+510581at33208a	Missing
+511272at33208a	Complete	transcript_12335	166.3	201
+511386at33208a	Missing
+511575at33208a	Missing
+511668at33208a	Missing
+514121at33208a	Missing
+514296at33208a	Missing
+514565at33208a	Missing
+514675at33208a	Missing
+514698at33208a	Missing
+514724at33208a	Missing
+514727at33208a	Fragmented	transcript_23816	37.1	113
+514740at33208a	Complete	transcript_32251	223.3	173
+514834at33208a	Duplicated	transcript_26285	132.8	194
+514834at33208a	Duplicated	transcript_33624	131.9	227
+514834at33208a	Duplicated	transcript_32171	131.1	215
+514892at33208a	Missing
+515058at33208a	Missing
+515377at33208a	Missing
+515410at33208a	Missing
+515425at33208a	Duplicated	transcript_31423	129.0	178
+515425at33208a	Duplicated	transcript_29886	128.6	178
+515528at33208a	Missing
+515640at33208a	Missing
+516078at33208a	Missing
+516321at33208a	Duplicated	transcript_33572	199.2	136
+516321at33208a	Duplicated	transcript_1387	190.4	133
+516481at33208a	Missing
+516659at33208a	Missing
+516716at33208a	Missing
+517311at33208a	Missing
+517525at33208a	Duplicated	transcript_27895	229.9	270
+517525at33208a	Duplicated	transcript_24364	229.4	270
+517686at33208a	Missing
+517968at33208a	Missing
+518288at33208a	Complete	transcript_22877	367.0	354
+518569at33208a	Duplicated	transcript_25604	227.2	318
+518569at33208a	Duplicated	transcript_28197	226.9	318
+518635at33208a	Missing
+519030at33208a	Missing
+519303at33208a	Missing
+519777at33208a	Complete	transcript_33803	207.3	229
+520011at33208a	Duplicated	transcript_31278	165.1	246
+520011at33208a	Duplicated	transcript_29941	164.6	245
+521343at33208a	Missing
+522886at33208a	Missing
+522988at33208a	Missing
+523206at33208a	Complete	transcript_34037	118.9	90
+523376at33208a	Complete	transcript_32693	239.9	233
+523534at33208a	Missing
+524148at33208a	Missing
+524165at33208a	Complete	transcript_17872	210.3	286
+524322at33208a	Missing
+525542at33208a	Complete	transcript_33741	174.6	170
+525888at33208a	Complete	transcript_30487	191.7	157
+526074at33208a	Missing
+526487at33208a	Complete	transcript_34218	263.4	169
+526673at33208a	Complete	transcript_32656	297.7	263
+526839at33208a	Missing
+527406at33208a	Missing
+528325at33208a	Missing
+529092at33208a	Missing
+529093at33208a	Missing
+529708at33208a	Missing
+529852at33208a	Complete	transcript_15063	167.3	142
+530431at33208a	Missing
+532406at33208a	Missing
+532693at33208a	Complete	transcript_30915	183.6	200
+532728at33208a	Missing
+532930at33208a	Missing
+533666at33208a	Missing
+533690at33208a	Missing
+534172at33208a	Complete	transcript_33152	242.0	209
+534206at33208a	Missing
+534312at33208a	Missing
+534757at33208a	Missing
+534808at33208a	Missing
+535268at33208a	Missing
+535367at33208a	Missing
+535524at33208a	Missing
+535650at33208a	Complete	transcript_34214	259.7	165
+535664at33208a	Missing
+535782at33208a	Missing
+535806at33208a	Missing
+536251at33208a	Missing
+537470at33208a	Duplicated	transcript_33578	251.4	153
+537470at33208a	Duplicated	transcript_24910	249.5	153
+537470at33208a	Duplicated	transcript_33290	241.5	153
+537548at33208a	Missing
+537718at33208a	Duplicated	transcript_33071	132.2	155
+537718at33208a	Duplicated	transcript_10545	129.8	155
+537923at33208a	Missing
+538442at33208a	Missing
+539043at33208a	Missing
+539215at33208a	Missing
+539234at33208a	Missing
+539360at33208a	Missing
+539600at33208a	Missing
+540193at33208a	Duplicated	transcript_27673	55.2	191
+540193at33208a	Duplicated	transcript_23641	54.9	177
+541231at33208a	Missing
+541260at33208a	Missing
+541421at33208a	Complete	transcript_2823	181.4	187
+543124at33208a	Missing
+543269at33208a	Fragmented	transcript_14099	125.5	109
+544546at33208a	Missing
+544849at33208a	Missing
+544919at33208a	Missing
+545063at33208a	Missing
+545389at33208a	Complete	transcript_33983	258.4	166
+545641at33208a	Complete	transcript_30759	186.2	121
+545744at33208a	Missing
+545889at33208a	Missing
+546305at33208a	Complete	transcript_8335	79.9	86
+546751at33208a	Complete	transcript_28074	237.5	143
+547099at33208a	Missing
+547341at33208a	Complete	transcript_32318	188.6	187
+547766at33208a	Missing
+548327at33208a	Complete	transcript_22012	156.2	145
+548444at33208a	Complete	transcript_26804	164.2	215
+548732at33208a	Missing
+549156at33208a	Missing
+549988at33208a	Missing
+551166at33208a	Missing
+551620at33208a	Missing
+551632at33208a	Complete	transcript_17170	162.6	142
+551831at33208a	Missing
+552201at33208a	Missing
+552359at33208a	Missing
+552764at33208a	Missing
+552949at33208a	Missing
+553411at33208a	Missing
+553585at33208a	Missing
+554010at33208a	Missing
+554815at33208a	Complete	transcript_33020	71.3	172
+555162at33208a	Missing
+555390at33208a	Missing
+555538at33208a	Missing
+556039at33208a	Missing
+556189at33208a	Missing
+556337at33208a	Duplicated	transcript_34295	208.4	124
+556337at33208a	Duplicated	transcript_19453	204.9	124
+556445at33208a	Missing
+556461at33208a	Missing
+556510at33208a	Missing
+556587at33208a	Missing
+556750at33208a	Missing
+556925at33208a	Missing
+557292at33208a	Missing
+557596at33208a	Duplicated	transcript_34224	312.6	177
+557596at33208a	Duplicated	transcript_34200	312.5	176
+557596at33208a	Duplicated	transcript_10569	308.8	176
+557694at33208a	Missing
+557834at33208a	Complete	transcript_18165	236.0	304
+557962at33208a	Missing
+558368at33208a	Missing
+558385at33208a	Missing
+558552at33208a	Missing
+558791at33208a	Missing
+558897at33208a	Complete	transcript_17827	102.5	146
+558933at33208a	Missing
+559146at33208a	Missing
+559501at33208a	Fragmented	transcript_9575	112.7	82
+559576at33208a	Missing
+559732at33208a	Missing
+559883at33208a	Missing
+560453at33208a	Duplicated	transcript_10429	234.1	138
+560453at33208a	Duplicated	transcript_34232	233.7	139
+560566at33208a	Missing
+560584at33208a	Missing
+560694at33208a	Missing
+561054at33208a	Duplicated	transcript_30777	155.1	126
+561054at33208a	Duplicated	transcript_30073	155.1	126
+561054at33208a	Duplicated	transcript_29492	155.1	126
+561248at33208a	Missing
+561417at33208a	Missing
+561688at33208a	Missing
+561878at33208a	Missing
+561943at33208a	Complete	transcript_32463	304.5	244
+562780at33208a	Missing
+563084at33208a	Missing
+563358at33208a	Missing
+563359at33208a	Missing
+563426at33208a	Complete	transcript_31058	234.7	253
+563679at33208a	Complete	transcript_9516	115.6	97
+563832at33208a	Missing
+564234at33208a	Complete	transcript_21430	133.5	145
+564286at33208a	Missing
+565053at33208a	Missing
+566026at33208a	Missing
+566116at33208a	Fragmented	transcript_7800	145.3	145
+566262at33208a	Complete	transcript_10040	111.7	100
+566447at33208a	Missing
+566527at33208a	Missing
+566916at33208a	Missing
+567650at33208a	Missing
+567750at33208a	Missing
+567809at33208a	Complete	transcript_34311	201.4	116
+568022at33208a	Duplicated	transcript_34272	187.4	151
+568022at33208a	Duplicated	transcript_34271	186.8	151
+568170at33208a	Missing
+568839at33208a	Complete	transcript_32314	161.4	206
+568949at33208a	Duplicated	transcript_21405	206.1	159
+568949at33208a	Duplicated	transcript_20877	206.0	159
+568949at33208a	Duplicated	transcript_19555	205.9	159
+569294at33208a	Missing
+569303at33208a	Missing
+569812at33208a	Missing
+569878at33208a	Missing
+570262at33208a	Missing
+570646at33208a	Missing
+570717at33208a	Missing
+571149at33208a	Missing
+571944at33208a	Missing
+572074at33208a	Missing
+572434at33208a	Missing
+572463at33208a	Missing
+572754at33208a	Complete	transcript_34142	86.2	115
+572845at33208a	Missing
+573203at33208a	Complete	transcript_30920	147.7	296
+573237at33208a	Missing
+573313at33208a	Missing
+574311at33208a	Complete	transcript_30436	18.3	61
+575360at33208a	Missing
+576633at33208a	Missing
+576938at33208a	Fragmented	transcript_4490	47.1	72
+576997at33208a	Missing
+577068at33208a	Complete	transcript_33289	77.9	156
+577339at33208a	Missing
+577929at33208a	Missing
+578354at33208a	Missing
+578582at33208a	Missing
+578684at33208a	Missing
+578726at33208a	Complete	transcript_30264	171.8	177
+578734at33208a	Duplicated	transcript_15868	149.0	641
+578734at33208a	Duplicated	transcript_16625	148.7	547
+578734at33208a	Duplicated	transcript_12295	146.8	608
+578959at33208a	Missing
+579029at33208a	Missing
+580062at33208a	Missing
+580288at33208a	Complete	transcript_9480	187.4	116
+580851at33208a	Missing
+580896at33208a	Complete	transcript_16068	122.7	242
+581006at33208a	Missing
+581475at33208a	Missing
+581543at33208a	Missing
+581547at33208a	Complete	transcript_32826	221.4	152
+581621at33208a	Missing
+581717at33208a	Missing
+581779at33208a	Missing
+582265at33208a	Missing
+582341at33208a	Missing
+582473at33208a	Missing
+582823at33208a	Missing
+582951at33208a	Missing
+583626at33208a	Missing
+584023at33208a	Missing
+584333at33208a	Missing
+584373at33208a	Missing
+585078at33208a	Missing
+585232at33208a	Missing
+585305at33208a	Missing
+585313at33208a	Missing
+585656at33208a	Complete	transcript_33837	189.1	151
+585726at33208a	Missing
+585809at33208a	Missing
+586156at33208a	Missing
+586310at33208a	Missing
+586690at33208a	Missing
+586719at33208a	Missing
+587399at33208a	Missing
+587407at33208a	Missing
+587513at33208a	Duplicated	transcript_24132	212.9	274
+587513at33208a	Duplicated	transcript_21930	212.4	274
+587513at33208a	Duplicated	transcript_17557	211.3	273
+587688at33208a	Missing
+587958at33208a	Missing
+589773at33208a	Complete	transcript_31578	50.5	54
+589901at33208a	Duplicated	transcript_20496	158.6	235
+589901at33208a	Duplicated	transcript_17880	158.3	235
+589901at33208a	Duplicated	transcript_16547	158.1	235
+590221at33208a	Missing
+590347at33208a	Missing
+590416at33208a	Complete	transcript_29937	192.5	184
+590470at33208a	Missing
+591316at33208a	Missing
+591391at33208a	Missing
+591498at33208a	Missing
+592087at33208a	Missing
+592094at33208a	Missing
+592759at33208a	Missing
+592872at33208a	Missing
+594172at33208a	Missing
+594271at33208a	Complete	transcript_33584	53.1	90
+594842at33208a	Missing
+594937at33208a	Missing
+595010at33208a	Missing
+595316at33208a	Missing
+595404at33208a	Complete	transcript_33536	131.2	122
+595858at33208a	Missing
+596131at33208a	Missing
+596973at33208a	Missing
+597023at33208a	Missing
+597816at33208a	Missing
+598405at33208a	Missing
+598944at33208a	Duplicated	transcript_24857	125.6	189
+598944at33208a	Duplicated	transcript_15392	121.3	171
+599320at33208a	Missing
+600462at33208a	Missing
+600823at33208a	Missing
+601242at33208a	Missing
+601650at33208a	Missing
+601768at33208a	Complete	transcript_33567	122.0	196
+601875at33208a	Complete	transcript_30362	112.3	214
+601886at33208a	Missing
+601967at33208a	Missing
+602089at33208a	Complete	transcript_29672	154.9	118
+602148at33208a	Fragmented	transcript_26362	65.5	50
+602587at33208a	Missing
+603239at33208a	Missing
+603370at33208a	Missing
+603609at33208a	Missing
+603673at33208a	Missing
+604211at33208a	Missing
+604943at33208a	Missing
+605189at33208a	Missing
+606048at33208a	Missing
+606539at33208a	Missing
+606748at33208a	Missing
+606776at33208a	Missing
+606795at33208a	Missing
+606958at33208a	Missing
+607862at33208a	Missing
+608011at33208a	Missing
+608074at33208a	Missing
+608190at33208a	Complete	transcript_23409	67.3	88
+608669at33208a	Missing
+608869at33208a	Missing
+608924at33208a	Missing
+609899at33208a	Missing
+610427at33208a	Missing
+610541at33208a	Missing
+611258at33208a	Missing
+611279at33208a	Missing
+611373at33208a	Missing
+611891at33208a	Missing
+612760at33208a	Missing
+612825at33208a	Missing
+613522at33208a	Missing
+613580at33208a	Missing
+613851at33208a	Missing
+614305at33208a	Missing
+615531at33208a	Complete	transcript_7365	110.5	83
+615585at33208a	Complete	transcript_32262	86.6	80
+615840at33208a	Missing
+616120at33208a	Missing
+616149at33208a	Missing
+616613at33208a	Missing
+616716at33208a	Missing
+617020at33208a	Duplicated	transcript_30955	172.4	183
+617020at33208a	Duplicated	transcript_27249	171.8	181
+617441at33208a	Missing
+617522at33208a	Missing
+617667at33208a	Missing
+618339at33208a	Missing
+618421at33208a	Missing
+618516at33208a	Complete	transcript_33664	56.2	94
+618986at33208a	Missing
+619250at33208a	Missing
+619326at33208a	Missing
+619415at33208a	Missing
+620546at33208a	Duplicated	transcript_31581	69.6	107
+620546at33208a	Duplicated	transcript_32013	63.4	104
+620753at33208a	Missing
+621585at33208a	Missing
+621808at33208a	Duplicated	transcript_15678	155.8	81
+621808at33208a	Duplicated	transcript_8300	155.2	81
+622156at33208a	Missing
+622172at33208a	Missing
+622270at33208a	Missing
+622461at33208a	Missing
+622560at33208a	Complete	transcript_34289	169.0	159
+623138at33208a	Complete	transcript_5040	69.4	111
+623324at33208a	Missing
+623444at33208a	Missing
+623995at33208a	Missing
+625077at33208a	Missing
+625091at33208a	Missing
+625769at33208a	Missing
+628082at33208a	Missing
+628231at33208a	Missing
+628247at33208a	Missing
+629763at33208a	Missing
+630073at33208a	Missing
+631107at33208a	Complete	transcript_3800	138.1	101
+631173at33208a	Missing
+631196at33208a	Missing
+631662at33208a	Complete	transcript_16262	108.2	82
+631767at33208a	Missing
+631798at33208a	Missing
+631811at33208a	Missing
+632234at33208a	Missing
+632472at33208a	Missing
+632566at33208a	Missing
+633007at33208a	Missing
+633282at33208a	Missing
+633619at33208a	Missing
+634446at33208a	Missing
+634447at33208a	Missing
+636041at33208a	Complete	transcript_33967	94.8	102
+636070at33208a	Missing
+636300at33208a	Missing
+636423at33208a	Missing
+637971at33208a	Missing
+638541at33208a	Missing
+639252at33208a	Missing
+640187at33208a	Missing
+640349at33208a	Missing
+641073at33208a	Missing
+641257at33208a	Complete	transcript_7528	47.0	123
+642323at33208a	Missing
+642552at33208a	Missing
+642773at33208a	Complete	transcript_34117	51.5	68
+643380at33208a	Missing
+643883at33208a	Complete	transcript_11181	61.5	73
+643954at33208a	Missing
+644034at33208a	Missing
+648300at33208a	Missing
+649979at33208a	Missing

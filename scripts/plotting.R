@@ -52,6 +52,9 @@ plot1<-ggplot(data=rarefaction_dat)+
 ggsave(filename=here("figures",paste(dataset,"_plot1.png",sep="")),device = "png",dpi = 300,width = 20,height=15,units="cm")
 plot1
 dev.off()
+ggsave(filename=here("figures",paste(dataset,"_plot1.pdf",sep="")),device = "pdf",dpi = 300,width = 20,height=15,units="cm")
+plot1
+dev.off()
 
 thresh<-min(tail(rarefaction_dat$reads,n=15))
 
@@ -96,6 +99,9 @@ plot1_plus1<-ggplot(data=rarefaction_dat)+
             aes(x=reads/100000,y=perc_compl),colour="grey50",linetype="dashed")
 
 ggsave(filename=here("figures",paste(dataset,"_plot1_plus1.png",sep="")),device = "png",dpi = 300,width = 15,height=10,units="cm")
+plot1_plus1
+dev.off()
+ggsave(filename=here("figures",paste(dataset,"_plot1_plus1.pdf",sep="")),device = "pdf",dpi = 300,width = 15,height=10,units="cm")
 plot1_plus1
 dev.off()
 
@@ -154,12 +160,14 @@ plot1_plus2<-plot1<-ggplot(data=rarefaction_dat)+
 ggsave(filename=here("figures",paste(dataset,"_plot1_plus2.png",sep="")),device = "png",dpi = 300,width = 15,height=10,units="cm")
 plot1_plus2
 dev.off()
+ggsave(filename=here("figures",paste(dataset,"_plot1_plus2.pdf",sep="")),device = "pdf",dpi = 300,width = 15,height=10,units="cm")
+plot1_plus2
+dev.off()
 
 
 
 
 # Plot sample1 + sample1_2
-dataset<-"sp1" # One of "sp1", "sp2", ...
 sampl<-"sample1_2" # One of "sample1", "sample1_2"
 
 # Load the busco results table
@@ -210,6 +218,9 @@ plot1_plus3<-ggplot()+
         axis.title = element_text(size=16))
 
 ggsave(filename=here("figures",paste(dataset,"_plot1_plus3.png",sep="")),device = "png",dpi = 300,width = 15,height=10,units="cm")
+plot1_plus3
+dev.off()
+ggsave(filename=here("figures",paste(dataset,"_plot1_plus3.pdf",sep="")),device = "pdf",dpi = 300,width = 15,height=10,units="cm")
 plot1_plus3
 dev.off()
 

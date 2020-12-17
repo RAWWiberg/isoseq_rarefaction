@@ -1,11 +1,11 @@
 # cDNA_Cupcake pipeline: 
 ### isoseq3 post-processing and rarefaction analysis
 
-[cDNA_Cupcake](https://github.com/Magdoll/cDNA_Cupcake)
+An obvious question to ask oneself is "how much sequencing do I need to do"? With IsoSeq being a relatively new technology, and quite expensive it would be good to know how many more transcripts/genes one can recover with additional sequencing. One procedure for figuring this out is a rarefaction analysis where one downsamples from the number of reads one has produce to see how many are recovered, as the number of reads increases. One such solution is implemented in the popular cDNA Cupcake ToFU pipeline: [cDNA_Cupcake](https://github.com/Magdoll/cDNA_Cupcake).
 
-However, it's not clear what this rarefaction analysis is aiming to accomplish. Because the "standard" used for the analysis is all the discovered transcripts, it is really only measuring how many additional transcripts will be discovered with more sequencing effort. Clearly there are not an infinite number of transcripts available to sample within a cell. So perhaps a more sensible question is "how much sequencing effort do we need to get a good representation of full complement of transcripts within the sample?"  
+However, in this pipeline it's not clear that this rarefaction analysis is entirely satisfying. Because the "standard" used for the analysis is all the discovered transcripts in the full sample, it is really only measuring how many additional transcripts will be discovered with more sequencing effort. Clearly there are not an infinite number of transcripts available to sample within a cell. So perhaps a more sensible question is "how much sequencing effort do we need to get a good representation of full complement of transcripts within the sample?"  
 
-To answer this question a different standard is needed, a standard that is, at least to some degree, a measure of the total complement of transcripts.
+To answer this question a different standard is needed, a standard that is, at least to some degree, a measure of the total complement of transcripts/genes.
 
 We performed a very similar rarefaction analysis as what is done in cDNA_Cupcake, but instead of measuring how many of the set of discovered transcripts are present in each subsample, we measured the percent (%) of complete BUSCO (duplicated and single-copy) genes that are present in each subsample.
 

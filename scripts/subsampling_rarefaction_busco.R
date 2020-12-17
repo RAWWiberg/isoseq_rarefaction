@@ -4,7 +4,7 @@
 library(here)
 #--------------------------#
 # Load and prepare the data
-dataset<-"sp1" # One of "sp1", "sp2"
+dataset<-"sp2" # One of "sp1", "sp2"
 sampl<-"sample1_2" # One of "sample1", "sample1_2"
 
 # Load the busco results table
